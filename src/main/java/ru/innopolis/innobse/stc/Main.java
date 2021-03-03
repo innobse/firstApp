@@ -6,6 +6,8 @@ public class Main {
     System.out.println("Yury");
 
     System.out.println("Really! It's very fun!");
+
+    System.out.println("This is super feature!");
   }
 
 }
